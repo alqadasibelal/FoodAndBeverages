@@ -1,20 +1,23 @@
-# FOOD AND BEVERAGES
+# IIUM FOOD AND BEVERAGES APPLICATION PROJECT
 
 ## GROUP MEMBERS  
 
-**Name** | **Matric Number**
+**Name**                   | **Matric Number**
 ----------------------------------- | -------------
-MUHAMMAD HARITH BIN KHAIRUL FAIZI | 1622875
-NURUL SHUHAILA BINTI AZMAN | 1710060
-ABDULKADIR ABIKAR ABDILBARI | 1626081
+BELAL ABDULQAWI ALQADASI   | 1619091
+HANAN HAIDAR ALATAS        | 1624552
+HUSSAIN K M TANSIR         | 1638331
+PROMI JARIN TASNIM         | 1637892
+ISLAM MOHAMMAD RAIHANUL    | 1825891
 
-**Group Name :** RAUDHAH
 
-**Instructor’s Name :** Dr. MUHAMAD SADRY ABU SEMAN
+**Group Name :** --------
+
+**Instructor’s Name :** Dr. MOHD KHAIRUL AZMI BIN HASSAN
 
 
 ## Title 
-IIUM Food Review Application
+IIUM FOOD AND BEVERAGES
 
 
 ## INTRODUCTION
