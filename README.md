@@ -11,7 +11,7 @@ PROMI JARIN TASNIM                  | 1637892
 ISLAM MOHAMMAD RAIHANUL             | 1825891
 
 
-**Group Name :** --------
+**Group Name :** Group E
 
 **Instructor’s Name :** Dr. MOHD KHAIRUL AZMI BIN HASSAN
 
