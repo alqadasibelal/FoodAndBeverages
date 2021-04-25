@@ -30,7 +30,7 @@ IIUM Food Review App will display all choices that are available in each cafeter
 
 
 ## OBJECTIVES
-1. Ease user in viewing various meals that are available at cafeterias in IIUM.
+1. User can easily view various meals that are available at cafeterias in IIUM.
 1. Allow users to give feedbacks and ratings for any meals that are available at the cafeteria.
 1. Allow users to use their mobile camera to take photo of the food and write a note about it.
 1. Increase the promotion of cafeterias in IIUM.
