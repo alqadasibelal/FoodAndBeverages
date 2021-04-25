@@ -34,3 +34,33 @@ IIUM Food Review App will display all choices that are available in each cafeter
 1. Allow users to give feedbacks and ratings for any meals that are available at the cafeteria.
 1. Allow users to use their mobile camera to take photo of the food and write a note about it.
 1. Increase the promotion of cafeterias in IIUM.
+
+
+
+## FEATURES AND FUNCTIONALITIES OF THE MOBILE APPLICATION
+
+### Features
+
+Features | Explanation
+------------ | ----------------------------
+Sign Up | User need to fill in register form for the first time
+Log In | User log in to the app using e-mail and password
+Homepage | Display all cafeterias in IIUM and their business hours
+Food review pages | Display all food and meals that are available at specific cafeterias.
+Food Review pages | Write and view reviews for the meals and cafeterias.
+Food Review pages | Give ratings to the meals in specific cafeterias.
+Food Review pages | Take pictures and upload the moments with the meal.
+Food Review pages | Profile page | View users' profile
+Edit profile page | Allow user to edit their profile
+Firebase | Store users' information
+
+### Functionalities
+**Users: The users will be the Students, staff, and visitors of IIUM**
+* They can get the apps and sign up for the first time at no cost. Their information will be stored in firebase.
+* They can edit their profile and it will be altered in firebase.
+* They can view all cafeterias and their business hours at the home page.
+* They can choose to view the meals that are available and others feedback in the page of specific cafeteria.
+* They can give feedbacks, ratings and share their pictures while having the meals.
+
+
+
