@@ -72,3 +72,4 @@ Firebase | Store users' information
 * Admin can manage orders produced from the web application and Android application. 
 
 
+![sd MAD](https://user-images.githubusercontent.com/44799410/116123112-31f0e000-a6f5-11eb-9dd4-8463f58e4d82.JPG)
