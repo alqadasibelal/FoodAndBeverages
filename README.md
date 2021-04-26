@@ -63,4 +63,12 @@ Firebase | Store users' information
 * They can give feedbacks, ratings and share their pictures while having the meals.
 
 
+**Admin : 
+
+* Admin will store information about new entry of F&B
+* Admin will maintain quantity record for food and beverage 
+* Keep the record of customer details
+* Update and delete a record
+* Admin can manage orders produced from the web application and Android application. 
+
 
