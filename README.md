@@ -102,6 +102,8 @@ TextInput | To key-in user's details in log in/sign up page & the input of user'
 Text | To name the title of every page for users' view
 View | To display the components used
 Button | Used to proceed with log in/ sign up & to view specific cafeterias at homepage & submit reviews and feedback
+scrollview  | Used to make the products list scrollable, it can scroll both vertically and horizontally
+TouchableOpacity  | Used to reduce the opacity of button. It allows background to be seen while the user press down. The opacity of button will be controlled by wrapping the children in an Animation. 
 
 
 Container Components | Explanation
@@ -112,7 +114,7 @@ onChangeText | Use in TextInput components
 
 
 
-## SEQUENCE DIAGRAM:&nbsp;
+## SEQUENCE DIAGRAM:<br />
 ![sd MAD](https://user-images.githubusercontent.com/44799410/116123112-31f0e000-a6f5-11eb-9dd4-8463f58e4d82.JPG)
 
 
