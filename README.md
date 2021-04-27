@@ -20,8 +20,8 @@ ISLAM MOHAMMAD RAIHANUL             | 1825891
 IIUM FOOD AND BEVERAGES
 
 
-## INTRODUCTION
 
+## INTRODUCTION
 International Islamic University Malaysia (IIUM) has a wide variety of food and cuisine choices where students can find a hard time figuring out what meals are the most recommended. Besides, students are hard to know the business hour for every cafeterias as they have different opening and closing time.
 
 IIUM Food Review App is designed to help user in finding meals in IIUM Gombak campus. They can view all cafeterias that are available in IIUM as well as their opening and closing time. It also allows user to give feedback, review and rating for any meal in IIUM. Moreover, they can capture their enjoyable moments with the meal and share it publicly as the memories because it allows users to use their mobile camera to take photo of the meal and write a note about it.
@@ -71,5 +71,30 @@ Firebase | Store users' information
 * Update and delete a record
 * Admin can manage orders produced from the web application and Android application. 
 
-## SEQUENCE DIAGRAM:
+
+
+## PRESENTATIONAL AND CONTAINER COMPONENTS
+
+Presentational Components | Explanation
+------------- | ---------------------------------------
+TextInput | To key-in user's details in log in/sign up page & the input of user's review and feedback
+Text | To name the title of every page for users' view
+View | To display the components used
+Button | Used to proceed with log in/ sign up & to view specific cafeterias at homepage & submit reviews and feedback
+
+
+Container Components | Explanation
+------------- | ---------------------------------------
+onPress |	Click the button and proceed to the next page & click the given options in the category section for adding the items to the database
+onChangeText | Use in TextInput components
+
+
+
+
+## SEQUENCE DIAGRAM:&nbsp;
 ![sd MAD](https://user-images.githubusercontent.com/44799410/116123112-31f0e000-a6f5-11eb-9dd4-8463f58e4d82.JPG)
+
+
+## REFERENCES
+
+* (2017). Difference between component and container in react redux. stackoverflow. https://stackoverflow.com/questions/43414254/difference-between-component-and-container-in-react-redux
