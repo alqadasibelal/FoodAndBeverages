@@ -74,31 +74,24 @@ Firebase | Store users' information
 ## SCREEEN NAVIGATION
 
 ### Sign Up Page:
-![Sign Up Page]
 
 
 ### Sign In Page:
-![Sign In]
 
 
 ### Home Page:
-![Home Page 1]
 
 
 ### Cafeteria Page:
-![Cafeteria Page]
 
 
 ### Menu Highlighted Page:
-![Menu Highlighted Page]
 
 
 ### Review Box:
-![Review Box]
 
 
 ### Profile Page:
-![Profile Page]
 
 
 ## PRESENTATIONAL AND CONTAINER COMPONENTS
