@@ -115,7 +115,8 @@ onChangeText | Use in TextInput components
 
 
 ## SEQUENCE DIAGRAM:<br />
-![sd MAD](https://user-images.githubusercontent.com/44799410/116123112-31f0e000-a6f5-11eb-9dd4-8463f58e4d82.JPG)
+![Sequence Diagram](https://user-images.githubusercontent.com/44799410/116282096-f28dc680-a7bc-11eb-9083-6fb2efc44e0c.jpg)
+
 
 
 ## REFERENCES
