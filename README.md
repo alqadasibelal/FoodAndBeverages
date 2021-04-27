@@ -98,3 +98,4 @@ onChangeText | Use in TextInput components
 ## REFERENCES
 
 * (2017). Difference between component and container in react redux. stackoverflow. https://stackoverflow.com/questions/43414254/difference-between-component-and-container-in-react-redux
+* 
