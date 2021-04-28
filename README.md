@@ -97,12 +97,17 @@ Firebase | Store users' information
 
 ### Menu Highlighted Page:
 
+![Add to basket](https://user-images.githubusercontent.com/69639669/116401600-02111c00-a85e-11eb-9548-68d66d7de6e2.png)
 
 ### Review Box:
 
+![Store Reviews](https://user-images.githubusercontent.com/69639669/116401635-0c331a80-a85e-11eb-8844-3c62f04e25c3.png)
+
+![Store](https://user-images.githubusercontent.com/69639669/116401662-135a2880-a85e-11eb-9643-ede11bc13f9b.png)
 
 ### Profile Page:
 
+![Home screen one-1](https://user-images.githubusercontent.com/69639669/116401690-1bb26380-a85e-11eb-92b7-0aee05572cd3.png)
 
 ## PRESENTATIONAL AND CONTAINER COMPONENTS
 
