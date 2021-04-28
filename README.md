@@ -75,17 +75,25 @@ Firebase | Store users' information
 
 ## SCREEEN NAVIGATION
 
+### Splash Page:
+
+![splash screen](https://user-images.githubusercontent.com/69639669/116392599-34694c00-a853-11eb-91ce-df3f06f8db79.png)
+
 ### Sign Up Page:
 
+![Register](https://user-images.githubusercontent.com/69639669/116392654-43e89500-a853-11eb-9137-24bf3f757c26.png)
 
 ### Sign In Page:
 
+![Sign in](https://user-images.githubusercontent.com/69639669/116392770-6d092580-a853-11eb-9b8b-9823c8374774.png)
 
 ### Home Page:
 
+![Home screen one](https://user-images.githubusercontent.com/69639669/116392818-7c886e80-a853-11eb-8076-fea3010851a1.png)
 
 ### Cafeteria Page:
 
+![Store Menu](https://user-images.githubusercontent.com/69639669/116392990-afcafd80-a853-11eb-816a-714f0d8b35d0.png)
 
 ### Menu Highlighted Page:
 
