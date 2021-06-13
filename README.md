@@ -46,21 +46,30 @@ IIUM Food Review App will display all choices that are available in each cafeter
 Features | Explanation
 ------------ | ----------------------------
 Sign Up | User need to fill in register form for the first time
-Log In | User log in to the app using e-mail and password
-Homepage | Display all cafeterias in IIUM and their business hours
-Food review pages | Display all food and meals that are available at specific cafeterias.
-Food Review pages | Write and view reviews for the meals and cafeterias.
-Food Review pages | Give ratings to the meals in specific cafeterias.
-Food Review pages | Take pictures and upload the moments with the meal.
-Food Review pages | Profile page | View users' profile
+Log In | User log in to the app using email and password
+Homepage | Display all cafeterias in IIUM, most popular place, well-like food, their business hours and overall customer rating
+Recommended canteen | Displays all the canteens registered with the system
+Popular Place | Displays the most popular places 
+Popular food | Displays the most liked food and beverages among all cafes
+Cafe Profile | Each cafe has its own profile that mentions it’s location, descriptions, food menu operation hour and customer ratings.
+Food Menu | User can scroll through the menu in horizontal view
+Bookmark | Users can bookmark any cafe as their favorite from the description profile
+Food Review | Show ratings of others to the meals in specific cafeterias.
+Add Review | Take pictures and upload the moments with the meal.
+Media Review | User can view pictures of food and ambiance in Horizontal view
+Alert | Customer gets alert after they placed a review
+Expendable View | Users can control their view of text for cafe description and food review through see more/less 
 Edit profile page | Allow user to edit their profile
 Firebase | Store users' information
+
+
 
 ### Functionalities
 **Users: The users will be the Students, staff, and visitors of IIUM**
 * They can get the apps and sign up for the first time at no cost. Their information will be stored in firebase.
 * They can edit their profile and it will be altered in firebase.
 * They can view all cafeterias and their business hours at the home page.
+* They can check offered cuisines of each cafes and their specility.
 * They can choose to view the meals that are available and others feedback in the page of specific cafeteria.
 * They can give feedbacks, ratings and share their pictures while having the meals.
 
