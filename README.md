@@ -135,8 +135,12 @@ Container Components | Explanation
 onPress |	Click the button and proceed to the next page & click the given options in the category section for adding the items to the database
 onChangeText | Use in TextInput components
 
+## PROJECT CONSTAINTS AND CHALLENGES 
 
-
+1. Time zone difference of the team member
+2. System Configuration
+3. Poor internet connection within the campus, and the performance of the laptop used for building the system.
+4. Screen compilation
 
 ## SEQUENCE DIAGRAM:<br />
 ![Sequence Diagram]![photo_2021-06-13_22-12-54](https://user-images.githubusercontent.com/44799410/121813613-6158ad80-cc9f-11eb-8548-8bbf60d0a58f.jpg)
