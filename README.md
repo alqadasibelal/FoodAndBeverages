@@ -143,6 +143,13 @@ onChangeText | Use in TextInput components
 2. System Configuration
 3. Poor internet connection within the campus, and the performance of the laptop used for building the system.
 4. Screen compilation
+5. The difficulty to apply fonts where there is a warning kept showing on because the default font we use
+6. The difficulty to change between the classes and functions inside the project. 
+7. Setting timer for a long period of time warning 
+
+
+
+
 
 ## SEQUENCE DIAGRAM:<br />
 ![Sequence Diagram]![photo_2021-06-13_22-12-54](https://user-images.githubusercontent.com/44799410/121813613-6158ad80-cc9f-11eb-8548-8bbf60d0a58f.jpg)
