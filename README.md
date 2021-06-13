@@ -1,4 +1,4 @@
-![sign up](https://user-images.githubusercontent.com/69639669/121815295-4e96a680-cca8-11eb-90f6-0539d45013d7.jpg)
+
 # IIUM FOOD AND BEVERAGES APPLICATION PROJECT
 
 ## GROUP MEMBERS  
@@ -91,7 +91,7 @@ Firebase | Store users' information
 
 ### Sign Up Page:
 
-![Register](https://user-images.githubusercontent.com/69639669/116392654-43e89500-a853-11eb-9137-24bf3f757c26.png)
+![sign up](https://user-images.githubusercontent.com/69639669/121815295-4e96a680-cca8-11eb-90f6-0539d45013d7.jpg)
 
 ### Sign In Page:
 
