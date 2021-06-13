@@ -139,7 +139,8 @@ onChangeText | Use in TextInput components
 
 
 ## SEQUENCE DIAGRAM:<br />
-![Sequence Diagram](https://user-images.githubusercontent.com/44799410/116282096-f28dc680-a7bc-11eb-9083-6fb2efc44e0c.jpg)
+![Sequence Diagram]![photo_2021-06-13_22-12-54](https://user-images.githubusercontent.com/44799410/121813613-6158ad80-cc9f-11eb-8548-8bbf60d0a58f.jpg)
+
 
 
 
