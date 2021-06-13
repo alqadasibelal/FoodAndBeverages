@@ -85,10 +85,6 @@ Firebase | Store users' information
 
 ## SCREEEN NAVIGATION
 
-### Splash Page:
-
-![splash screen](https://user-images.githubusercontent.com/69639669/116392599-34694c00-a853-11eb-91ce-df3f06f8db79.png)
-
 ### Sign Up Page:
 
 ![sign up](https://user-images.githubusercontent.com/69639669/121815295-4e96a680-cca8-11eb-90f6-0539d45013d7.jpg)
@@ -104,20 +100,25 @@ Firebase | Store users' information
 ### Cafeteria Page:
 
 ![canteen](https://user-images.githubusercontent.com/69639669/121815387-cebd0c00-cca8-11eb-9e9b-a5628e3fd34a.jpg)
+![browser](https://user-images.githubusercontent.com/69639669/121815453-36735700-cca9-11eb-832f-5d6f81fbc9d8.jpg)
 
 ### Menu Highlighted Page:
 
-![Add to basket](https://user-images.githubusercontent.com/69639669/116401600-02111c00-a85e-11eb-9548-68d66d7de6e2.png)
+![mahallah](https://user-images.githubusercontent.com/69639669/121815495-5f93e780-cca9-11eb-8f6b-93ec0adf437a.jpg)
 
 ### Review Box:
 
-![Store Reviews](https://user-images.githubusercontent.com/69639669/116401635-0c331a80-a85e-11eb-8844-3c62f04e25c3.png)
+![comment](https://user-images.githubusercontent.com/69639669/121815520-7a665c00-cca9-11eb-9ac7-f93b035b7edc.jpg)
 
-![Store](https://user-images.githubusercontent.com/69639669/116401662-135a2880-a85e-11eb-9643-ede11bc13f9b.png)
+![pic](https://user-images.githubusercontent.com/69639669/121815522-7f2b1000-cca9-11eb-95bc-34cd68e7afe6.jpg)
+
+### Alrt Box:
+
+![alert](https://user-images.githubusercontent.com/69639669/121815542-9538d080-cca9-11eb-8819-b5713fca02e1.jpg)
 
 ### Profile Page:
 
-![Home screen one-1](https://user-images.githubusercontent.com/69639669/116401690-1bb26380-a85e-11eb-92b7-0aee05572cd3.png)
+![profile](https://user-images.githubusercontent.com/69639669/121815507-6ae71300-cca9-11eb-8dd7-3b2c5398c4c6.jpg)
 
 ## PRESENTATIONAL AND CONTAINER COMPONENTS
 
