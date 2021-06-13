@@ -49,8 +49,8 @@ Features | Explanation
 Sign Up | User need to fill in register form for the first time
 Log In | User log in to the app using email and password
 Homepage | Display all cafeterias in IIUM, most popular place, well-like food, their business hours and overall customer rating
-Recommended canteen | Displays all the canteens registered with the system
-Popular Place | Displays the most popular places 
+Canteen | Displays all the canteens registered with the system
+Popular Restorants | Displays the most popular Restorants in the places 
 Popular food | Displays the most liked food and beverages among all cafes
 Cafe Profile | Each cafe has its own profile that mentions it’s location, descriptions, food menu operation hour and customer ratings.
 Food Menu | User can scroll through the menu in horizontal view
@@ -68,7 +68,6 @@ Firebase | Store users' information
 ### Functionalities
 **Users: The users will be the Students, staff, and visitors of IIUM**
 * They can get the apps and sign up for the first time at no cost. Their information will be stored in firebase.
-* They can edit their profile and it will be altered in firebase.
 * They can view all cafeterias and their business hours at the home page.
 * They can check offered cuisines of each cafes and their specility.
 * They can choose to view the meals that are available and others feedback in the page of specific cafeteria.
