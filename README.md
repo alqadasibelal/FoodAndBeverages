@@ -138,3 +138,5 @@ onChangeText | Use in TextInput components
 
 * (2017). Difference between component and container in react redux. stackoverflow. https://stackoverflow.com/questions/43414254/difference-between-component-and-container-in-react-redux
 * C. (2018). Codebrahma/React-Native-Restaurant-App. GitHub. https://github.com/Codebrahma/React-Native-Restaurant-App
+* (2018). Some Assets photos to iium canteens  https://iiumcafernr.wixsite.com/rate-review?lightbox=dataItem-ihlic3np1
+* image uploder to internet https://imgbb.com/
