@@ -49,8 +49,8 @@ Features | Explanation
 Sign Up | User need to fill in register form for the first time
 Log In | User log in to the app using email and password
 Homepage | Display all cafeterias in IIUM, most popular place, well-like food, their business hours and overall customer rating
-Canteen | Displays all the canteens registered with the system
-Popular Restorants | Displays the most popular Restorants in the places 
+Recommended canteen | Displays all the canteens registered with the system
+Popular Place | Displays the most popular places 
 Popular food | Displays the most liked food and beverages among all cafes
 Cafe Profile | Each cafe has its own profile that mentions it’s location, descriptions, food menu operation hour and customer ratings.
 Food Menu | User can scroll through the menu in horizontal view
@@ -68,6 +68,7 @@ Firebase | Store users' information
 ### Functionalities
 **Users: The users will be the Students, staff, and visitors of IIUM**
 * They can get the apps and sign up for the first time at no cost. Their information will be stored in firebase.
+* They can edit their profile and it will be altered in firebase.
 * They can view all cafeterias and their business hours at the home page.
 * They can check offered cuisines of each cafes and their specility.
 * They can choose to view the meals that are available and others feedback in the page of specific cafeteria.
@@ -94,15 +95,15 @@ Firebase | Store users' information
 
 ### Sign In Page:
 
-![Sign in](https://user-images.githubusercontent.com/69639669/116392770-6d092580-a853-11eb-9b8b-9823c8374774.png)
+![login](https://user-images.githubusercontent.com/69639669/121815334-8a317080-cca8-11eb-8e4c-6c7d2e8ee1cd.jpg)
 
 ### Home Page:
 
-![Home screen one](https://user-images.githubusercontent.com/69639669/116392818-7c886e80-a853-11eb-8076-fea3010851a1.png)
+![home](https://user-images.githubusercontent.com/69639669/121815349-9fa69a80-cca8-11eb-97b7-8665009396dd.jpg)
 
 ### Cafeteria Page:
 
-![Store Menu](https://user-images.githubusercontent.com/69639669/116392990-afcafd80-a853-11eb-816a-714f0d8b35d0.png)
+![canteen](https://user-images.githubusercontent.com/69639669/121815387-cebd0c00-cca8-11eb-9e9b-a5628e3fd34a.jpg)
 
 ### Menu Highlighted Page:
 
